@@ -1,0 +1,42 @@
+html {
+  background: url(https://images.unsplash.com/photo-1493243350443-9e3048ce7288?ixlib=rb-0.3.5&s=b65563fb71c44d48ca344015de979633&auto=format&fit=crop&w=897&q=80);
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+}
+
+div {
+	padding: 10px 0px;
+	
+}
+
+h1 {
+	line-height: 25px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 300%;
+	font-family: 'Eagle Lake', cursive;
+	color: white;
+	padding: 40px 0px; 
+	text-align: center;
+	margin-top: 300px;
+  margin-left: 50px;
+}
+
+.button {
+	background-color: #1D0404; /* Black */
+    border-radius: 12px;
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    font-family: 'Eagle Lake', cursive;
+    font-style: italic;
+   	cursor: pointer;
+   	margin-top: -65px;
+   	margin-left: 570px;
+
+}
+
